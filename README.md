@@ -1,4 +1,5 @@
-# pinia-cache
+# pinia-cache ![build status](https://github.com/RuslanGetmansky/pinia-cache/actions/workflows/build.yml/badge.svg?branch=main)
+
 Inspired by [vuex-cache](https://github.com/superwf/vuex-cache)
 
 Cache dispatched actions in memory and prevent repeated requests and heavy actions.
