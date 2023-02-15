@@ -4,10 +4,10 @@ Inspired by [vuex-cache](https://github.com/superwf/vuex-cache)
 
 Cache dispatched actions in memory and prevent repeated requests and heavy actions.
 
-## Compatibility
+## Compatibility and dependencies
 
 - `Map` and `Promise` are required (you can use polyfills, like [`@babel/polyfill`](https://babeljs.io/docs/en/babel-polyfill));
-- Any Vue version, since `pinia-cache` just deals with Pinia;
+- Any Vue version + `vue-demi` package;
 - Pinia version 2.
 
 ## Installation
